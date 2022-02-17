@@ -1,0 +1,7 @@
+PS C:\Users\mauricio.rios\Desktop\Training\GitTasks> git branch testIo
+PS C:\Users\mauricio.rios\Desktop\Training\GitTasks> git checkout testIo
+Switched to branch 'testIo'
+PS C:\Users\mauricio.rios\Desktop\Training\GitTasks> git status
+On branch testIo
+nothing to commit, working tree clean
+PS C:\Users\mauricio.rios\Desktop\Training\GitTasks> 
